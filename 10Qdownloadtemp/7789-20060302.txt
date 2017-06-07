@@ -1,0 +1,676 @@
+ITEM 1A.     RISK FACTORS
+
+An investment in the Corporations common stock is subject
+to risks inherent to the Corporations business. The
+material risks and uncertainties that management believes affect
+the Corporation are described below. Before making an investment
+decision, you should carefully consider the risks and
+uncertainties described below, together with all of the other
+information included or incorporated by reference in this
+report. The risks and uncertainties described below are not the
+only ones facing the Corporation. Additional risks and
+uncertainties that management is not aware of or focused on or
+that management currently deems immaterial may also impair the
+Corporations business operations. This report is qualified
+in its entirety by these risk factors. See also, Special
+Note Regarding Forward-Looking Statements.
+
+
+If any of the following risks actually occur, the
+Corporations financial condition and results of operations
+could be materially and adversely affected. If this were to
+happen, the value of the Corporations common stock could
+decline significantly, and you could lose all or part of your
+investment.
+
+
+References to we, us, and
+our in this section refer to the Corporation and its
+subsidiaries, unless otherwise specified or unless the context
+otherwise requires.
+
+Risks Related To The Corporations Business
+We Are Subject To Interest Rate Risk
+
+The Corporations earnings and cash flows are largely
+dependent upon its net interest income. Interest rates are
+highly sensitive to many factors that are beyond the
+Corporations control, including general economic
+conditions and policies of various governmental and regulatory
+agencies and, in particular, the Federal Reserve. Changes in
+monetary policy, including changes in interest rates, could
+influence not only the interest the Corporation receives on
+loans and securities and the amount of interest it pays on
+deposits and borrowings,
+
+7
+
+ PAGEBREAK 
+Table of Contents
+
+but such changes could also affect (i) the
+Corporations ability to originate loans and obtain
+deposits, (ii) the fair value of the Corporations
+financial assets and liabilities, and (iii) the average
+duration of the Corporations mortgage-backed securities
+portfolio and other interest-earning assets. If the interest
+rates paid on deposits and other borrowings increase at a faster
+rate than the interest rates received on loans and other
+investments, the Corporations net interest income, and
+therefore earnings, could be adversely affected. Earnings could
+also be adversely affected if the interest rates received on
+loans and other investments fall more quickly than the interest
+rates paid on deposits and other borrowings.
+
+
+Although management believes it has implemented effective asset
+and liability management strategies, including the limited use
+of derivatives as hedging instruments, to reduce the potential
+effects of changes in interest rates on the Corporations
+results of operations, any substantial, unexpected, prolonged
+change in market interest rates could have a material adverse
+effect on the Corporations financial condition and results
+of operations. Also, the Corporations interest rate risk
+modeling techniques and assumptions likely may not fully predict
+or capture the impact of actual interest rate changes on the
+Corporations balance sheet. See Part II sections
+Net Interest Income and Interest Rate
+Risk in Managements Discussion and Analysis of
+Financial Condition and Results of Operations, for further
+discussion related to the Corporations management of
+interest rate risk.
+
+We Are Subject To Lending Risk
+
+As of December 31, 2005, approximately 61% of the
+Corporations loan portfolio consisted of commercial,
+financial, and agricultural, real estate construction, and
+commercial real estate loans (collectively, commercial
+loans). Commercial loans are generally viewed as having
+more inherent risk of default than residential mortgage loans or
+retail loans. Also, the commercial loan balance per borrower is
+typically larger than that for residential mortgage loans and
+retail loans, inferring higher potential losses on an individual
+loan basis. Because the Corporations loan portfolio
+contains a growing number of commercial loans with balances over
+a $25 million internal threshold, the deterioration of one
+or a few of these loans could cause a significant increase in
+nonperforming loans. An increase in nonperforming loans could
+result in a net loss of earnings from these loans, an increase
+in the provision for loan losses, and an increase in loan charge
+offs, all of which could have a material adverse effect on the
+Corporations financial condition and results of
+operations. See Part II section Loans in
+Managements Discussion and Analysis of Financial
+Condition and Results of Operations, for further
+discussion of credit risks related to different loan types.
+
+Our Allowance For Loan Losses May Be Insufficient
+
+The Corporation maintains an allowance for loan losses, which is
+a reserve established through a provision for loan losses
+charged to expense, which represents managements best
+estimate of probable losses that have been incurred within the
+existing portfolio of loans. The allowance, in the judgment of
+management, is necessary to reserve for estimated loan losses
+and risks inherent in the loan portfolio. The level of the
+allowance reflects managements continuing evaluation of
+industry concentrations; specific credit risks; loan loss
+experience; current loan portfolio quality; present economic,
+political, and regulatory conditions; and unidentified losses
+inherent in the current loan portfolio. The determination of the
+appropriate level of the allowance for loan losses inherently
+involves a high degree of subjectivity and requires the
+Corporation to make significant estimates of current credit
+risks using existing qualitative and quantitative information,
+all of which may undergo material changes. Changes in economic
+conditions affecting borrowers, new information regarding
+existing loans, identification of additional problem loans, and
+other factors, both within and outside of the Corporations
+control, may require an increase in the allowance for loan
+losses. In addition, bank regulatory agencies periodically
+review the Corporations allowance for loan losses and may
+require an increase in the provision for loan losses or the
+recognition of additional loan charge offs, based on judgments
+different than those of management. An increase in the allowance
+for loan losses results in a decrease in net income, and
+possibly capital, and may have a material adverse effect on the
+Corporations financial condition and results of
+operations. See Part II section Allowance for Loan
+Losses in Managements Discussion and Analysis
+of Financial Condition and Results of Operations for
+further discussion related to the Corporations process for
+determining the appropriate level of the allowance for loan
+losses.
+
+8
+
+
+ PAGEBREAK 
+Table of Contents
+Our Profitability Depends Significantly On Economic
+Conditions In The States Within Which We Do Business
+
+The Corporations success depends on the general economic
+conditions of the specific local markets in which the
+Corporation operates. Local economic conditions have a
+significant impact on the demand for the Corporations
+products and services as well as the ability of the
+Corporations customers to repay loans, the value of the
+collateral securing loans, and the stability of the
+Corporations deposit funding sources. A significant
+decline in general economic conditions, caused by inflation,
+recession, acts of terrorism, outbreak of hostilities, or other
+international or domestic occurrences, unemployment, changes in
+securities markets or other factors could impact local economic
+conditions and, in turn, have a material adverse effect on the
+Corporations financial condition and results of operations.
+
+We Are Subject To Extensive Government Regulation and
+Supervision
+
+The Corporation, primarily through Associated Bank, National
+Association, and certain nonbank subsidiaries, is subject to
+extensive federal and state regulation and supervision. Banking
+regulations are primarily intended to protect depositors
+funds, federal deposit insurance funds, and the banking system
+as a whole, not shareholders. These regulations affect the
+Corporations lending practices, capital structure,
+investment practices, dividend policy, and growth, among other
+things. Congress and federal regulatory agencies continually
+review banking laws, regulations, and policies for possible
+changes. Changes to statutes, regulations, or regulatory
+policies, including changes in interpretation or implementation
+of statutes, regulations, or policies, could affect the
+Corporation in substantial and unpredictable ways. Such changes
+could subject the Corporation to additional costs, limit the
+types of financial services and products the Corporation may
+offer, and/or increase the ability of nonbanks to offer
+competing financial services and products, among other things.
+Failure to comply with laws, regulations, or policies could
+result in sanctions by regulatory agencies, civil money
+penalties, and/or reputation damage, which could have a material
+adverse effect on the Corporations business, financial
+condition, and results of operations. While the Corporation has
+policies and procedures designed to prevent any such violations,
+there can be no assurance that such violations will not occur.
+See the section Supervision and Regulation and
+Note 17, Regulatory Matters, of the notes to
+consolidated financial statements within Part II,
+Item 8.
+
+Our Internal Controls May Be Ineffective
+
+Management regularly reviews and updates the Corporations
+internal controls, disclosure controls and procedures, and
+corporate governance policies and procedures. Any system of
+controls, however well designed and operated, is based in part
+on certain assumptions and can provide only reasonable, not
+absolute, assurances that the objectives of the system are met.
+Any failure or circumvention of the Corporations controls
+and procedures or failure to comply with regulations related to
+controls and procedures could have a material adverse effect on
+the Corporations business, results of operations, and
+financial condition.
+
+New Lines of Business or New Products and Services May
+Subject Us to Additional Risks
+
+From time to time, we may implement new lines of business or
+offer new products and services within existing lines of
+business. There are substantial risks and uncertainties
+associated with these efforts, particularly in instances where
+the markets are not fully developed. In developing and marketing
+new lines of business and/or new products and services, the
+Corporation may invest significant time and resources. Initial
+timetables for the introduction and development of new lines of
+business and/or new products or services may not be achieved and
+price and profitability targets may not prove feasible. External
+factors, such as compliance with regulations, competitive
+alternatives, and shifting market preferences, may also impact
+the successful implementation of a new line of business or a new
+product or service. Furthermore, any new line of business and/or
+new product or service could have a significant impact on the
+effectiveness of the Corporations system of internal
+controls. Failure to successfully manage these risks in the
+development and implementation of new lines of business or new
+products or services could have a material adverse effect on the
+Corporations business, results of operations and financial
+condition.
+
+9
+
+ PAGEBREAK 
+Table of Contents
+We Rely On Dividends From Our Subsidiaries For Most Of Our
+Revenue
+
+The Parent Company is a separate and distinct legal entity from
+its subsidiaries. It receives substantially all of its revenue
+from dividends from its subsidiaries. These dividends are the
+principal source of funds to pay dividends on the
+Corporations common stock and interest and principal on
+the Corporations debt. Various federal and/or state laws
+and regulations limit the amount of dividends that Associated
+Bank, National Association, and certain nonbank subsidiaries may
+pay to the Corporation. Also, the Corporations right to
+participate in a distribution of assets upon a subsidiarys
+liquidation or reorganization is subject to the prior claims of
+the subsidiarys creditors. In the event Associated Bank,
+National Association, is unable to pay dividends to the
+Corporation, the Corporation may not be able to service debt,
+pay obligations, or pay dividends on the Corporations
+common stock. The inability to receive dividends from Associated
+Bank, National Association, could have a material adverse effect
+on the Corporations business, financial condition, and
+results of operations. See the section Supervision and
+Regulation and Note 17, Regulatory
+Matters, of the notes to consolidated financial statements
+within Part II, Item 8.
+
+Acquisitions May Disrupt Our Business and Dilute
+Stockholder Value
+
+The Corporation regularly evaluates merger and acquisition
+opportunities and conducts due diligence activities related to
+possible transactions with other financial institutions and
+financial services companies. As a result, negotiations may take
+place and future mergers or acquisitions involving cash, debt,
+or equity securities may occur at any time. The Corporation
+seeks merger or acquisition partners that are culturally
+similar, have experienced management, and possess either
+significant market presence or have potential for improved
+profitability through financial management, economies of scale,
+or expanded services.
+
+
+Acquiring other banks, businesses, or branches involves
+potential adverse impact to the Corporations financial
+results and various other risks commonly associated with
+acquisitions, including, among other things:
+
+
+    Difficulty in estimating the value of the target company.
+
+    Payment of a premium over book and market values that may dilute
+    the Corporations tangible book value and earnings per
+    share in the short and long term.
+
+    Potential exposure to unknown or contingent liabilities of the
+    target company.
+
+    Exposure to potential asset quality issues of the target company.
+
+    There may be volatility in reported income as goodwill
+    impairment losses could occur irregularly and in varying amounts
+
+    Difficulty and expense of integrating the operations and
+    personnel of the target company.
+
+    Inability to realize the expected revenue increases, cost
+    savings, increases in geographic or product presence, and/or
+    other projected benefits
+
+    Potential disruption to the Corporations business.
+
+    Potential diversion of the Corporations managements
+    time and attention.
+
+    The possible loss of key employees and customers of the target
+    company.
+
+    Potential changes in banking or tax laws or regulations that may
+    affect the target company.
+
+Details of the Corporations recent acquisition activity is
+presented in Note 2, Business Combinations, of
+the notes to consolidated financial statements within
+Part II, Item 8.
+
+We May Not Be Able To Attract and Retain Skilled
+People
+
+The Corporations success depends, in large part, on its
+ability to attract and retain skilled people. Competition for
+the best people in most activities engaged in by the Corporation
+can be intense and the Corporation may not be able to hire
+sufficiently skilled people or to retain them. The unexpected
+loss of services of one or more of the Corporations key
+personnel could have a material adverse impact on the
+Corporations business
+
+10
+
+
+ PAGEBREAK 
+Table of Contents
+
+because of their skills, knowledge of the Corporations
+market, years of industry experience, and the difficulty of
+promptly finding qualified replacement personnel. The
+Corporation does not currently have employment agreements with
+any of its senior officers.
+
+Our Information Systems May Experience An Interruption Or
+Breach In Security
+
+The Corporation relies heavily on communications and information
+systems to conduct its business. Any failure, interruption, or
+breach in security of these systems could result in failures or
+disruptions in the Corporations customer relationship
+management, general ledger, deposit, loan, and other systems.
+While the Corporation has policies and procedures designed to
+prevent or limit the effect of the failure, interruption, or
+security breach of its information systems, we cannot assure you
+that any such failures, interruptions, or security breaches will
+not occur or, if they do occur, that they will be adequately
+addressed. The occurrence of any failures, interruptions, or
+security breaches of the Corporations information systems
+could damage the Corporations reputation, result in a loss
+of customer business, subject the Corporation to additional
+regulatory scrutiny, or expose the Corporation to civil
+litigation and possible financial liability, any of which could
+have a material adverse effect on the Corporations
+financial condition and results of operations.
+
+We Continually Encounter Technological Change
+
+The financial services industry is continually undergoing rapid
+technological change with frequent introductions of new
+technology-driven products and services. The effective use of
+technology increases efficiency and enables financial
+institutions to better serve customers and to reduce costs. The
+Corporations future success depends, in part, upon its
+ability to address the needs of its customers by using
+technology to provide products and services that will satisfy
+customer demands, as well as to create additional efficiencies
+in the Corporations operations. Many of the
+Corporations competitors have substantially greater
+resources to invest in technological improvements. The
+Corporation may not be able to effectively implement new
+technology-driven products and services or be successful in
+marketing these products and services to its customers. Failure
+to successfully keep pace with technological change affecting
+the financial services industry could have a material adverse
+impact on the Corporations business and, in turn, the
+Corporations financial condition and results of operations.
+
+We Are Subject To Claims and Litigation Pertaining To
+Fiduciary Responsibility
+
+From time to time, customers make claims and take legal action
+pertaining to the Corporations performance of its
+fiduciary responsibilities. Whether customer claims and legal
+action related to the Corporations performance of its
+fiduciary responsibilities are founded or unfounded, if such
+claims and legal actions are not resolved in a manner favorable
+to the Corporation, they may result in significant financial
+liability and/or adversely affect the market perception of the
+Corporation and its products and services, as well as impact
+customer demand for those products and services. Any financial
+liability or reputation damage could have a material adverse
+effect on the Corporations business, which, in turn, could
+have a material adverse effect on the Corporations
+financial condition and results of operations.
+
+Severe Weather, Natural Disasters, Acts Of War Or
+Terrorism, and Other External Events Could Significantly Impact
+Our Business
+
+Severe weather, natural disasters, acts of war or terrorism, and
+other adverse external events could have a significant impact on
+the Corporations ability to conduct business. Such events
+could affect the stability of the Corporations deposit
+base, impair the ability of borrowers to repay outstanding
+loans, impair the value of collateral securing loans, cause
+significant property damage, result in loss of revenue and/or
+cause the Corporation to incur additional expenses. For example,
+during 2005, numerous hurricanes made landfall and subsequently
+caused extensive flooding and destruction in various parts of
+the country. While the impact of these hurricanes did not
+significantly affect the Corporation, other severe weather or
+natural disasters, acts of war or terrorism, or other adverse
+external events may occur in the future. Although management has
+established disaster recovery policies and procedures, the
+occurrence of any such event could have a material
+
+11
+
+
+ PAGEBREAK 
+Table of Contents
+
+adverse effect on the Corporations business, which, in
+turn, could have a material adverse effect on the
+Corporations financial condition and results of operations.
+
+We Are Subject To Environmental Liability Risk Associated
+With Lending Activities
+
+A significant portion of the Corporations loan portfolio
+is secured by real property. During the ordinary course of
+business, the Corporation may foreclose on and take title to
+properties securing certain loans. In doing so, there is a risk
+that hazardous or toxic substances could be found on these
+properties. If hazardous or toxic substances are found, the
+Corporation may be liable for remediation costs, as well as for
+personal injury and property damage. Environmental laws may
+require the Corporation to incur substantial expenses and may
+materially reduce the affected propertys value or limit
+the Corporations ability to use or sell the affected
+property. In addition, future laws or more stringent
+interpretations or enforcement policies with respect to existing
+laws may increase the Corporations exposure to
+environmental liability. Although the Corporation has policies
+and procedures to perform an environmental review before
+initiating any foreclosure action on real property, these
+reviews may not be sufficient to detect all potential
+environmental hazards. The remediation costs and any other
+financial liabilities associated with an environmental hazard
+could have a material adverse effect on the Corporations
+financial condition and results of operations.
+
+Risks Associated With The Corporations Common Stock
+Our Stock Price Can Be Volatile
+
+Stock price volatility may make it more difficult for you to
+resell your common stock when you want and at prices you find
+attractive. The Corporations stock price can fluctuate
+significantly in response to a variety of factors including,
+among other things:
+
+
+    Actual or anticipated variations in quarterly results of
+    operations.
+
+    Recommendations by securities analysts.
+
+    Operating and stock price performance of other companies that
+    investors deem comparable to the Corporation.
+
+    News reports relating to trends, concerns, and other issues in
+    the financial services industry.
+
+    Perceptions in the marketplace regarding the Corporation and/or
+    its competitors.
+
+    New technology used or services offered by competitors.
+
+    Significant acquisitions or business combinations, strategic
+    partnerships, joint ventures, or capital commitments by or
+    involving the Corporation or its competitors.
+
+    Failure to integrate acquisitions or realize anticipated
+    benefits from acquisitions.
+
+    Changes in government regulations.
+
+    Geopolitical conditions such as acts or threats of terrorism or
+    military conflicts.
+
+General market fluctuations, industry factors, and general
+economic and political conditions and events, such as economic
+slowdowns or recessions, interest rate changes, or credit loss
+trends, could also cause the Corporations stock price to
+decrease regardless of operating results.
+
+An Investment In Our Common Stock Is Not An Insured
+Deposit
+
+The Corporations common stock is not a bank deposit and,
+therefore, is not insured against loss by the FDIC, any other
+deposit insurance fund, or by any other public or private
+entity. Investment in the Corporations common stock is
+inherently risky for the reasons described in this Risk
+Factors section and elsewhere in this report and is
+subject to the same market forces that affect the price of
+common stock in any company. As a result, if you acquire the
+Corporations common stock, you may lose some or all of
+your investment.
+
+12
+
+
+ PAGEBREAK 
+Table of Contents
+Our Articles Of Incorporation, Bylaws, and Certain
+Banking Laws May Have An Anti-Takeover Effect
+
+Provisions of the Corporations articles of incorporation,
+bylaws, and federal banking laws, including regulatory approval
+requirements, could make it more difficult for a third party to
+acquire the Corporation, even if doing so would be perceived to
+be beneficial to the Corporations shareholders. The
+combination of these provisions may prohibit a non-negotiated
+merger or other business combination, which, in turn, could
+adversely affect the market price of the Corporations
+common stock.
+
+Risks Associated With The Corporations Industry
+We Operate In A Highly Competitive Industry and Market
+Area
+
+The Corporation faces substantial competition in all areas of
+its operations from a variety of different competitors, many of
+which are larger and may have more financial resources. Such
+competitors primarily include national, regional, and internet
+banks within the various markets the Corporation operates. The
+Corporation also faces competition from many other types of
+financial institutions, including, without limitation, savings
+and loans, credit unions, finance companies, brokerage firms,
+insurance companies, and other financial intermediaries. The
+financial services industry could become even more competitive
+as a result of legislative, regulatory, and technological
+changes and continued consolidation. Banks, securities firms,
+and insurance companies can merge under the umbrella of a
+financial holding company, which can offer virtually any type of
+financial service, including banking, securities underwriting,
+insurance (both agency and underwriting), and merchant banking.
+Also, technology has lowered barriers to entry and made it
+possible for nonbanks to offer products and services
+traditionally provided by banks, such as automatic transfer and
+automatic payment systems. Many of the Corporations
+competitors have fewer regulatory constraints and may have lower
+cost structures. Additionally, due to their size, many
+competitors may be able to achieve economies of scale and, as a
+result, may offer a broader range of products and services as
+well as better pricing for those products and services than the
+Corporation can.
+
+
+The Corporations ability to compete successfully depends
+on a number of factors, including, among other things:
+
+
+    The ability to develop, maintain, and build upon long-term
+    customer relationships based on top quality service, high
+    ethical standards, and safe, sound assets.
+
+    The ability to expand the Corporations market position.
+
+    The scope, relevance, and pricing of products and services
+    offered to meet customer needs and demands.
+
+    The rate at which the Corporation introduces new products and
+    services relative to its competitors.
+
+    Customer satisfaction with the Corporations level of
+    service.
+
+    Industry and general economic trends.
+
+Failure to perform in any of these areas could significantly
+weaken the Corporations competitive position, which could
+adversely affect the Corporations growth and
+profitability, which, in turn, could have a material adverse
+effect on the Corporations financial condition and results
+of operations.
+
+The Earnings Of Financial Services Companies Are
+Significantly Affected By General Business And Economic
+Conditions
+
+The Corporations operations and profitability are impacted
+by general business and economic conditions in the United States
+and abroad. These conditions include short-term and long-term
+interest rates, inflation, money supply, political issues,
+legislative and regulatory changes, fluctuations in both debt
+and equity capital markets, broad trends in industry and
+finance, and the strength of the U.S. economy and the local
+economies in which the Corporation operates, all of which are
+beyond the Corporations control. A deterioration in
+economic conditions could result in an increase in loan
+delinquencies and nonperforming assets, decreases in loan
+collateral values, and a decrease in demand for the
+Corporations products and services, among other
+
+13
+
+ PAGEBREAK 
+Table of Contents
+
+things, any of which could have a material adverse impact on the
+Corporations financial condition and results of operations.
+
+Financial Services Companies Depend On The Accuracy And
+Completeness Of Information About Customers And
+Counterparties
+
+In deciding whether to extend credit or enter into other
+transactions, the Corporation may rely on information furnished
+by or on behalf of customers and counterparties, including
+financial statements, credit reports, and other financial
+information. The Corporation may also rely on representations of
+those customers, counterparties, or other third parties, such as
+independent auditors, as to the accuracy and completeness of
+that information. Reliance on inaccurate or misleading financial
+statements, credit reports, or other financial information could
+cause us to enter into unfavorable transactions, which would
+have a material adverse effect on the Corporations
+financial condition and results of operations.
+
+Consumers May Decide Not To Use Banks To Complete Their
+Financial Transactions
+
+Technology and other changes are allowing parties to complete
+financial transactions that historically have involved banks
+through alternative methods. For example, consumers can now
+maintain funds that would have historically been held as bank
+deposits in brokerage accounts or mutual funds. Consumers can
+also complete transactions such as paying bills and/or
+transferring funds directly without the assistance of banks. The
+process of eliminating banks as intermediaries, known as
+disintermediation, could result in the loss of fee
+income, as well as the loss of customer deposits and the related
+income generated from those deposits. The loss of these revenue
+streams and the lower cost of deposits as a source of funds
+could have a material adverse effect on the Corporations
+financial condition and results of operations.
+
+ link1 "ITEM 1B. UNRESOLVED STAFF COMMENTS" 
+ITEM 1B.     UNRESOLVED STAFF
+COMMENTS
+
+None.
+
+ link1 "ITEM 2. PROPERTIES" 

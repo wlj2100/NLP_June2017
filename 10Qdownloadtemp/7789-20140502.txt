@@ -1,0 +1,10 @@
+Item 1A. Risk Factors 
+The following risk factor is added to those set forth in the Corporations Annual Report on Form 10-K for the year
+ended December 31, 2013. Except as described below, the material risks and uncertainties that management believes effect the Corporation have not changed materially from those described in the Form 10-K. 
+Acquisitions may be delayed, impeded, or prohibited by regulatory authorities due to regulatory issues.
+ Acquisitions by the Corporation,
+particularly those of financial institutions, are subject to approval by a variety of federal and state regulatory agencies (collectively, regulatory approvals). These regulatory approvals could be delayed, impeded, or denied due to
+existing or new regulatory issues the Corporation has, or may have, with regulatory agencies, including, without limitation, issues related to AML/BSA compliance, fair lending laws, consumer protection laws, unfair, deceptive, or abusive acts or
+practices regulations, Community Reinvestment Act (CRA) issues, and other similar laws and regulations. Problems with acquisitions due to such issues could have a material adverse impact on our business, and, in turn, our financial condition and
+results of operations.
+77 

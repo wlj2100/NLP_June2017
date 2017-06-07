@@ -1,0 +1,1524 @@
+ITEM 1A.  
+RISK
+    FACTORS
+
+    An investment in our common stock is subject to risks inherent
+    to our business. The material risks and uncertainties that
+    management believes affect us are described below. Before making
+    an investment decision, you should carefully consider the risks
+    and uncertainties described below, together with all of the
+    other information included or incorporated by reference herein.
+    The risks and uncertainties described below are not the only
+    ones facing us. Additional risks and uncertainties that
+    management is not aware of or focused on or that management
+    currently deems immaterial may also impair our business
+    operations. This report is qualified in its entirety by these
+    risk factors. See also, Special Note Regarding
+    Forward-Looking Statements.
+
+
+    If any of the following risks actually occur, our financial
+    condition and results of operations could be materially and
+    adversely affected. If this were to happen, the value of our
+    common stock could decline significantly, and you could lose all
+    or part of your investment.
+
+Credit
+    Risks
+We are subject to lending concentration
+    risks.
+  As of December 31, 2010,
+    approximately 55% of our loan portfolio consisted of commercial
+    and industrial, real estate construction, commercial real estate
+    loans, and lease financing (collectively, commercial
+    loans). Commercial loans are generally viewed as having
+    more inherent risk of default than residential mortgage loans or
+    retail loans. Also, the commercial loan balance per borrower is
+    typically larger than that for residential mortgage loans and
+    retail loans, inferring higher potential losses on an individual
+    loan basis. Because our loan portfolio contains a number of
+    commercial loans with balances over $25 million, the
+    deterioration of one or a few of these loans could cause a
+    significant increase in nonaccrual loans. An increase in
+    nonaccrual loans could result in a loss of interest income from
+    these loans, an increase in the provision for loan losses, and
+    an increase in loan charge offs, all of which could have a
+    material adverse effect on our financial condition and results
+    of operations.
+
+Changes in economic and political conditions could
+    adversely affect our earnings, as our borrowers ability to
+    repay loans and the value of the collateral securing our loans
+    decline.
+  Our success depends, to a certain
+    extent, upon economic and political conditions, local and
+    national, as well as governmental monetary policies. Conditions
+    such as inflation, recession, unemployment, changes in interest
+    rates, money supply and other factors beyond our control may
+    adversely affect our asset quality, deposit levels and loan
+    demand and, therefore, our earnings. Because we have a
+    significant amount of real estate loans, decreases in real
+    estate values could adversely affect the value of property used
+    as collateral. Adverse changes in the economy may also have a
+    negative effect on the ability of our borrowers to make timely
+    repayments of their loans, which could have an adverse impact on
+    our earnings. Consequently, any decline in the economy in our
+    market area could have a material adverse effect on our
+    financial condition and results of operations.
+
+Our allowance for loan losses may be
+    insufficient.
+  All borrowers carry the
+    potential to default and our remedies to recover (seizure
+    
+and/or
+ sale
+    of collateral, legal actions, guarantees, etc.) may not fully
+    satisfy money previously lent. We maintain an allowance for loan
+    losses, which is a reserve established through a provision for
+    loan losses charged to expense, which represents
+    managements best estimate of probable credit losses that
+    have been incurred within the existing portfolio of loans. The
+    allowance, in the judgment of management, is necessary to
+    reserve for estimated loan losses and risks inherent in the loan
+    portfolio. The level of the allowance for loan losses reflects
+    managements continuing evaluation of industry
+    concentrations; specific credit risks; loan loss experience;
+    current loan portfolio quality; present economic, political, and
+    regulatory conditions; and unidentified losses inherent in the
+    current loan portfolio. The determination of the appropriate
+    level of the allowance for loan losses inherently involves a
+    high degree of subjectivity and requires us to make significant
+    estimates of current credit risks using existing qualitative and
+    quantitative information, all of which may undergo material
+    changes. Changes in economic conditions affecting borrowers, new
+    information regarding existing loans, identification of
+    additional problem
+
+ XBRL Paragraph Pagebreak 
+ XBRL Pagebreak Begin 
+
+    15
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+
+    loans, and other factors, both within and outside of our
+    control, may require an increase in the allowance for loan
+    losses. In addition, bank regulatory agencies periodically
+    review our allowance for loan losses and may require an increase
+    in the provision for loan losses or the recognition of
+    additional loan charge offs, based on judgments different than
+    those of management. An increase in the allowance for loan
+    losses results in a decrease in net income, and possibly
+    risk-based capital, and may have a material adverse effect on
+    our financial condition and results of operations.
+
+We are subject to environmental liability risk associated
+    with lending activities.
+  A significant
+    portion of our loan portfolio is secured by real property.
+    During the ordinary course of business, we may foreclose on and
+    take title to properties securing certain loans. In doing so,
+    there is a risk that hazardous or toxic substances could be
+    found on these properties. If hazardous or toxic substances are
+    found, we may be liable for remediation costs, as well as for
+    personal injury and property damage. Environmental laws may
+    require us to incur substantial expenses and may materially
+    reduce the affected propertys value or limit our ability
+    to use or sell the affected property. In addition, future laws
+    or more stringent interpretations or enforcement policies with
+    respect to existing laws may increase our exposure to
+    environmental liability. Although we have policies and
+    procedures to perform an environmental review before initiating
+    any foreclosure action on real property, these reviews may not
+    be sufficient to detect all potential environmental hazards. The
+    remediation costs and any other financial liabilities associated
+    with an environmental hazard could have a material adverse
+    effect on our financial condition and results of operations.
+
+Lack of system integrity or credit quality related to
+    funds settlement could result in a financial
+    loss.
+  We settle funds on behalf of financial
+    institutions, other businesses and consumers and receive funds
+    from clients, card issuers, payment networks and consumers on a
+    daily basis for a variety of transaction types. Transactions
+    facilitated by us include debit card, credit card and electronic
+    bill payment transactions, supporting consumers, financial
+    institutions and other businesses. These payment activities rely
+    upon the technology infrastructure that facilitates the
+    verification of activity with counterparties and the
+    facilitation of the payment. If the continuity of operations or
+    integrity of processing were compromised this could result in a
+    financial loss to us due to a failure in payment facilitation.
+    In addition, we may issue credit to consumers, financial
+    institutions or other businesses as part of the funds
+    settlement. A default on this credit by a counterparty could
+    result in a financial loss to us.
+
+Financial services companies depend on the accuracy and
+    completeness of information about customers and
+    counterparties.
+  In deciding whether to extend
+    credit or enter into other transactions, we may rely on
+    information furnished by or on behalf of customers and
+    counterparties, including financial statements, credit reports,
+    and other financial information. We may also rely on
+    representations of those customers, counterparties, or other
+    third parties, such as independent auditors, as to the accuracy
+    and completeness of that information. Reliance on inaccurate or
+    misleading financial statements, credit reports, or other
+    financial information could cause us to enter into unfavorable
+    transactions, which could have a material adverse effect on our
+    financial condition and results of operations.
+
+Operational
+    Risks
+Changes in our accounting policies or in accounting
+    standards could materially affect how we report our financial
+    results and condition.
+  Our accounting
+    policies are fundamental to understanding our financial results
+    and condition. Some of these policies require use of estimates
+    and assumptions that may affect the value of our assets or
+    liabilities and financial results. Some of our accounting
+    policies are critical because they require management to make
+    difficult, subjective and complex judgments about matters that
+    are inherently uncertain and because it is likely that
+    materially different amounts would be reported under different
+    conditions or using different assumptions. If such estimates or
+    assumptions underlying our financial statements are incorrect,
+    we may experience material losses.
+
+
+    From time to time the Financial Accounting Standards Board
+    (FASB) and the SEC change the financial accounting and reporting
+    standards or the interpretation of those standards that govern
+    the preparation of our external financial statements. These
+    changes are beyond our control, can be hard to predict and could
+    materially impact how we report our results of operations and
+    financial condition. We could be required to apply a new or
+    revised standard retroactively, resulting in our restating prior
+    period financial statements in material amounts.
+
+ XBRL Pagebreak Begin 
+
+    16
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+Our internal controls may be
+    ineffective.
+  Management regularly reviews and
+    updates our internal controls, disclosure controls and
+    procedures, and corporate governance policies and procedures.
+    Any system of controls, however well designed and operated, is
+    based in part on certain assumptions and can provide only
+    reasonable, not absolute, assurances that the objectives of the
+    system are met. Any failure or circumvention of our controls and
+    procedures or failure to comply with regulations related to
+    controls and procedures could have a material adverse effect on
+    our business, results of operations, and financial condition.
+
+Impairment of investment securities, goodwill, other
+    intangible assets, or deferred tax assets could require charges
+    to earnings, which could result in a negative impact on our
+    results of operations.
+  In assessing whether
+    the impairment of investment securities is
+    
+other-than-temporary,
+
+    management considers the length of time and extent to which the
+    fair value has been less than cost, the financial condition and
+    near-term prospects of the issuer, and the intent and ability to
+    retain our investment in the security for a period of time
+    sufficient to allow for any anticipated recovery in fair value
+    in the near term. Under current accounting standards, goodwill
+    is not amortized but, instead, is subject to impairment tests on
+    at least an annual basis or more frequently if an event occurs
+    or circumstances change that reduce the fair value of a
+    reporting unit below its carrying amount. During 2010, the
+    annual impairment test was completed and the fair value of the
+    reporting units exceeded the fair value of their assets and
+    liabilities. In the event that we conclude that all or a portion
+    of our goodwill may be impaired, a non-cash charge for the
+    amount of such impairment would be recorded to earnings. Such a
+    charge would have no impact on tangible capital. A decline in
+    our stock price or occurrence of a triggering event following
+    any of our quarterly earnings releases and prior to the filing
+    of the periodic report for that period could, under certain
+    circumstances, cause us to perform a goodwill impairment test
+    and result in an impairment charge being recorded for that
+    period which was not reflected in such earnings release. At
+    December 31, 2010, we had goodwill of $929 million,
+    representing approximately 29% of stockholders equity, of
+    which $907 million was assigned to the banking segment and
+    $22 million was assigned to the wealth management segment.
+    In assessing the realizability of deferred tax assets,
+    management considers whether it is more likely than not that
+    some portion or all of the deferred tax assets will not be
+    realized. Assessing the need for, or the sufficiency of, a
+    valuation allowance requires management to evaluate all
+    available evidence, both negative and positive. Positive
+    evidence necessary to overcome the negative evidence includes
+    whether future taxable income in sufficient amounts and
+    character within the carryback and carryforward periods is
+    available under the tax law, including the use of tax planning
+    strategies. When negative evidence (e.g., cumulative losses in
+    recent years, history of operating loss or tax credit
+    carryforwards expiring unused) exists, more positive evidence
+    than negative evidence will be necessary. As a result of the
+    pre-tax losses incurred during 2009 and 2010, the Corporation is
+    in a cumulative pre-tax loss position for financial statement
+    purposes for the three-year period ended December 31, 2010.
+    If the positive evidence is not sufficient to exceed the
+    negative evidence, a valuation allowance for deferred tax assets
+    is established. At December 31, 2010, net deferred tax
+    assets are approximately $129 million. The impact of each
+    of these impairment matters could have a material adverse effect
+    on our business, results of operations, and financial condition.
+
+We may not be able to attract and retain skilled
+    people.
+  Our success depends, in large part,
+    on our ability to attract and retain skilled people. Competition
+    for the best people in most activities engaged in by us can be
+    intense, and we may not be able to hire sufficiently skilled
+    people or to retain them. The unexpected loss of services of one
+    or more of our key personnel could have a material adverse
+    impact on our business because of their skills, knowledge of our
+    markets, years of industry experience, and the difficulty of
+    promptly finding qualified replacement personnel.
+
+Loss of key employees may disrupt relationships with
+    certain customers.
+  Our business is primarily
+    relationship-driven in that many of our key employees have
+    extensive customer relationships. Loss of a key employee with
+    such customer relationships may lead to the loss of business if
+    the customers were to follow that employee to a competitor.
+    While we believe our relationship with our key personnel is
+    good, we cannot guarantee that all of our key personnel will
+    remain with our organization. Loss of such key personnel, should
+    they enter into an employment relationship with one of our
+    competitors, could result in the loss of some of our customers.
+
+Because the nature of the financial services business
+    involves a high volume of transactions, we face significant
+    operational risks.
+  We operate in many
+    different businesses in diverse markets and rely on the ability
+    of our employees and systems to process a high number of
+    transactions. Operational risk is the risk of loss resulting
+    from our operations, including but not limited to, the risk of
+    fraud by employees or persons outside our company, the execution
+    of unauthorized transactions by employees, errors relating to
+    transaction processing and technology,
+
+ XBRL Paragraph Pagebreak 
+ XBRL Pagebreak Begin 
+
+    17
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+
+    breaches of the internal control system and compliance
+    requirements, and business continuation and disaster recovery.
+    Insurance coverage may not be available for such losses, or
+    where available, such losses may exceed insurance limits. This
+    risk of loss also includes the potential legal actions that
+    could arise as a result of an operational deficiency or as a
+    result of noncompliance with applicable regulatory standards,
+    adverse business decisions or their implementation, and customer
+    attrition due to potential negative publicity. In the event of a
+    breakdown in the internal control system, improper operation of
+    systems or improper employee actions, we could suffer financial
+    loss, face regulatory action and suffer damage to our reputation.
+
+We rely on other companies to provide key components of
+    our business infrastructure.
+  Third party
+    vendors provide key components of our business infrastructure
+    such as internet connections, network access and core
+    application processing. While we have selected these third party
+    vendors carefully, we do not control their actions. Any problems
+    caused by these third parties, including as a result of their
+    not providing us their services for any reason or their
+    performing their services poorly, could adversely affect our
+    ability to deliver products and services to our customers and
+    otherwise to conduct our business. Replacing these third party
+    vendors could also entail significant delay and expense.
+
+Revenues from our investment management and asset
+    servicing businesses are significant to our
+    earnings.
+  Generating returns that satisfy
+    clients in a variety of asset classes is important to
+    maintaining existing business and attracting new business.
+    Administering or managing assets in accordance with the terms of
+    governing documents and applicable laws is also important to
+    client satisfaction. Failure in either of the foregoing areas
+    can expose us to liability, and result in a decrease in our
+    revenues and earnings.
+
+Our information systems may experience an interruption or
+    breach in security.
+  We rely heavily on
+    communications and information systems to conduct our business.
+    Any failure, interruption, or breach in security or operational
+    integrity of these systems could result in failures or
+    disruptions in our customer relationship management, general
+    ledger, deposit, loan, and other systems. While we have policies
+    and procedures designed to prevent or limit the effect of the
+    failure, interruption, or security breach of our information
+    systems, we cannot assure you that any such failures,
+    interruptions, or security breaches will not occur or, if they
+    do occur, that they will be adequately addressed. The occurrence
+    of any failures, interruptions, or security breaches of our
+    information systems could damage our reputation, result in a
+    loss of customer business, subject us to additional regulatory
+    scrutiny, or expose us to civil litigation and possible
+    financial liability, any of which could have a material adverse
+    effect on our financial condition and results of operations.
+
+The potential for business interruption exists throughout
+    our organization.
+  Integral to our performance
+    is the continued efficacy of our technical systems, operational
+    infrastructure, relationships with third parties and the vast
+    array of associates and key executives in our
+    
+day-to-day
+
+    and ongoing operations. Failure by any or all of these resources
+    subjects us to risks that may vary in size, scale and scope.
+    This includes, but is not limited to, operational or technical
+    failures, ineffectiveness or exposure due to interruption in
+    third party support as expected, as well as the loss of key
+    individuals or failure on the part of key individuals to perform
+    properly. Although management has established policies and
+    procedures to address such failures, the occurrence of any such
+    event could have a material adverse effect on our business,
+    which, in turn, could have a material adverse effect on our
+    financial condition and results of operations.
+
+Legal/Compliance
+    Risks
+We are subject to extensive government regulation and
+    supervision.
+  We, primarily through Associated
+    Bank and certain nonbank subsidiaries, are subject to extensive
+    federal and state regulation and supervision. Banking
+    regulations are primarily intended to protect depositors
+    funds, federal deposit insurance funds, and the banking system
+    as a whole, not shareholders. These regulations affect our
+    lending practices, capital structure, investment practices,
+    dividend policy, and growth, among other things. Congress and
+    federal regulatory agencies continually review banking laws,
+    regulations, and policies for possible changes. Changes to
+    statutes, regulations, or regulatory policies, including changes
+    in interpretation or implementation of statutes, regulations, or
+    policies, could affect us in substantial and unpredictable ways.
+    Such changes could subject us to additional costs, limit the
+    types of financial services and products we may offer,
+    
+and/or
+
+    increase the ability of nonbanks to offer competing financial
+    services and products, among other things. Failure to comply
+    with laws, regulations, or policies could result in sanctions by
+
+ XBRL Paragraph Pagebreak 
+ XBRL Pagebreak Begin 
+
+    18
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+
+    regulatory agencies, civil money penalties,
+    
+and/or
+
+    reputation damage, which could have a material adverse effect on
+    our business, financial condition, and results of operations.
+    While we have policies and procedures designed to prevent any
+    such violations, there can be no assurance that such violations
+    will not occur.
+
+The full impact of the recently enacted Dodd-Frank Act is
+    currently unknown given that much of the details and substance
+    of the new laws will be implemented through agency
+    rulemakings.
+  On July 21, 2010, the
+    Dodd-Frank Act was signed into law. The Dodd-Frank Act
+    represents a comprehensive overhaul of the financial services
+    industry within the United States and requires federal agencies
+    to adopt nearly 250 new rules and conduct more than 60 studies
+    over the course of the next few years, ensuring that the federal
+    regulations and implementing policies in these areas will
+    continue to develop for the foreseeable future.
+
+
+    Significantly, the Dodd-Frank Act includes the following
+    provisions which affect the Corporation or the Bank:
+
+
+    (1) it establishes the new Bureau of Consumer Financial
+    Protection (BCFP) which will directly regulate and
+    supervise the Bank for compliance with the BCFPs
+    regulations and policies. The creation of the BCFP will directly
+    impact the scope and cost of products and services offered to
+    consumers by the Bank and may have a significant effect on its
+    financial performance.
+
+
+    (2) it revises the FDICs insurance assessment
+    methodology so that premiums will be assessed based upon the
+    average consolidated total assets of the Bank less tangible
+    equity capital. It is expected that this change to the premium
+    calculation will require larger insurance premium payments from
+    FDIC-insured institutions such as the Bank.
+
+
+    (3) it permanently increases deposit insurance coverage to
+    $250,000; in addition, for noninterest-bearing transaction
+    accounts, such accounts will receive unlimited FDIC deposit
+    insurance through January 1, 2013.
+
+
+    (4) it authorizes the Federal Reserve to set debit
+    interchange fees in an amount that is reasonable and
+    proportional to the costs incurred by processors and card
+    issuers. Notably, a proposed Federal Reserve rule that would
+    limit this interchange fee to 12 cents per transaction has been
+    announced but, as of the date of publication, has not yet been
+    finalized.
+
+
+    (5) it imposes proprietary trading restrictions on insured
+    depository institutions and their holding companies that
+    prohibit them from engaging in proprietary trading except in
+    limited circumstances, and prevents them from owning equity
+    interests in excess of three percent (3%) of a banks
+    Tier 1 capital in private equity and hedge funds.
+
+
+    (6) it requires a phased-in exclusion of trust preferred
+    securities as a component of Tier 1 capital for certain
+    bank holding companies. Notably, preferred stock issued to the
+    U.S. Treasury under the CPP is excluded from this
+    calculation.
+
+
+    (7) it requires federal regulators to establish new minimum
+    leverage and risk-based capital requirements for large banks,
+    bank holding companies and systemically important non-banks. The
+    federal banking agencies issued a proposal to implement this
+    authority whereby the capital requirements applied to other
+    insured depository institutions would not apply to the largest
+    insured depository institutions, which had previously been
+    permitted to use their own models to determine their individual
+    risk-based capital requirements. Finally, the Dodd-Frank Act
+    requires depository institution holding companies to act as a
+    source of strength for their depository institution
+    subsidiaries (previously, this had been a regulatory policy but
+    was not codified into law).
+
+
+    Based on the text of the Dodd-Frank Act and the anticipated
+    implementing regulations, including the Durbin amendment, it is
+    anticipated that the costs to banks and their holding companies
+    may increase or fee income may decrease significantly which
+    could adversely affect the Corporations results of
+    operations, financial condition or liquidity. Moreover,
+    compliance obligations will expose us to additional
+    noncompliance risk and could divert managements focus from
+    the business of banking.
+
+The Bureau of Consumer Financial Protection may reshape
+    the consumer financial laws through rulemaking and enforcement
+    of the prohibitions against unfair, deceptive and abusive
+    business practices, which may directly impact the business
+    operations of depository institutions offering consumer
+    financial products or services, including the
+    Bank.
+  The BCFP has broad rulemaking authority
+    to administer and carry out the provisions of the
+
+ XBRL Paragraph Pagebreak 
+ XBRL Pagebreak Begin 
+
+    19
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+
+    Dodd-Frank Act with respect to financial institutions that offer
+    to consumers covered financial products and services. The BCFP
+    has also been directed to write rules identifying practices or
+    acts that are unfair, deceptive or abusive in connection with
+    any transaction with a consumer for a consumer financial product
+    or service, or the offering of a consumer financial product or
+    service. The concept of what may be considered to be an
+    abusive practice is new under the law. The full
+    scope of the impact of this authority has not yet been
+    determined as the implementing rules of the Dodd-Frank Act with
+    respect to the BCFP have not yet been released. Moreover, the
+    Bank will be supervised and examined by the BCFP for compliance
+    with the BCFPs regulations and policies. The costs and
+    limitations related to this additional regulatory reporting
+    regimen have yet to be fully determined, although they may be
+    material and the limitations and restrictions that will be
+    placed upon the Bank with respect to its consumer product
+    offering and services will also likely produce significant,
+    material effects on the Banks (and the Corporations)
+    profitability.
+
+Regulatory oversight has increased.
+  On
+    November 5, 2009, Associated Bank entered into a Memorandum
+    of Understanding with the Comptroller of the Currency, its
+    primary banking regulator. The MOU, which is an informal
+    agreement between the Bank and the OCC, requires the Bank to
+    develop, implement, and maintain various processes to improve
+    the Banks risk management of its loan portfolio and a
+    three-year capital plan providing for maintenance of specified
+    capital levels discussed below, notification to the OCC of
+    dividends proposed to be paid to us, and our commitment to act
+    as a primary or contingent source of the Banks capital.
+    Management believes that it has appropriately addressed all of
+    the conditions of the MOU. The Bank has also agreed with the OCC
+    that until the MOU is no longer in effect, to maintain minimum
+    capital ratios at specified levels higher than those otherwise
+    required by applicable regulations as follows: Tier 1
+    capital to total average assets (leverage ratio)  8%
+    and total capital to risk-weighted assets  12%. At
+    December 31, 2010, the Banks capital ratios were
+    9.55% and 16.38%, respectively. As a result of the MOU, the
+    Banks lending activities and capital levels are now
+    subject to increased regulatory oversight. The terms of the MOU
+    may affect our liquidity. In connection with the MOU, we
+    committed to serve as a primary or contingent source of capital
+    to the Bank to support the maintenance of the specified higher
+    minimum capital ratios. The dollar amount of this commitment is
+    uncertain at this time. On December 20, 2009, the Bank
+    entered into a written agreement with the OCC requiring the Bank
+    to take corrective action by May 4, 2010 (or such
+    additional time as the OCC may permit), to avoid an order by the
+    OCC requiring the Bank to divest its financial subsidiary which
+    engages in insurance sales. We believe that the Bank has taken
+    corrective steps by such date and it has not received an order
+    of divestiture. We do not believe that a required divestiture of
+    its financial subsidiary would have a material adverse effect on
+    our financial condition or operations. On April 6, 2010,
+    the Corporation entered into a Memorandum of Understanding
+    (Memorandum) with the Federal Reserve Bank of
+    Chicago (Reserve Bank), its primary banking
+    regulator. The Memorandum, which was entered into with the
+    Reserve Bank following the
+    
+2008-2009
+
+    supervisory cycle, is an informal agreement between the
+    Corporation and the Reserve Bank. As required, management has
+    submitted plans to strengthen board and management oversight and
+    risk management and for maintaining sufficient capital
+    incorporating stress scenarios. As also required, the
+    Corporation has submitted quarterly progress reports, and has
+    obtained, and will in the future continue to obtain, approval
+    prior to payment of dividends and interest or principal payments
+    on subordinated debt, increases in borrowings or guarantees of
+    debt, or the repurchase of common stock. An action by any of our
+    or the Banks regulators could lead to actions by our or
+    the Banks other regulators.
+
+We are subject to examinations and challenges by tax
+    authorities.
+  We are subject to federal and
+    state income tax regulations. Income tax regulations are often
+    complex and require interpretation. Changes in income tax
+    regulations could negatively impact our results of operations.
+    In the normal course of business, we are routinely subject to
+    examinations and challenges from federal and state tax
+    authorities regarding the amount of taxes due in connection with
+    investments we have made and the businesses in which we have
+    engaged. Recently, federal and state taxing authorities have
+    become increasingly aggressive in challenging tax positions
+    taken by financial institutions. These tax positions may relate
+    to tax compliance, sales and use, franchise, gross receipts,
+    payroll, property and income tax issues, including tax base,
+    apportionment and tax credit planning. The challenges made by
+    tax authorities may result in adjustments to the timing or
+    amount of taxable income or deductions or the allocation of
+    income among tax jurisdictions. If any such challenges are made
+    and are not resolved in our favor, they could have a material
+    adverse effect on our financial condition and results of
+    operations.
+
+ XBRL Pagebreak Begin 
+
+    20
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+We are subject to claims and litigation pertaining to
+    fiduciary responsibility.
+  From time to time,
+    customers make claims and take legal action pertaining to the
+    performance of our fiduciary responsibilities. Whether customer
+    claims and legal action related to the performance of our
+    fiduciary responsibilities are founded or unfounded, if such
+    claims and legal actions are not resolved in a manner favorable
+    to us, they may result in significant financial liability
+    
+and/or
+
+    adversely affect the market perception of us and our products
+    and services, as well as impact customer demand for those
+    products and services. Any financial liability or reputation
+    damage could have a material adverse effect on our business,
+    which, in turn, could have a material adverse effect on our
+    financial condition and results of operations.
+
+We are a defendant in a variety of litigation and other
+    actions, which may have a material adverse effect on our
+    financial condition and results of
+    operation.
+  We are a defendant in a class
+    action lawsuit alleging that we unfairly assess and collect
+    overdraft fees which seeks restitution of the overdraft fees,
+    compensatory, consequential and punitive damages, and costs.
+    This case has been consolidated into the overdraft fees Multi
+    District Litigation pending in the United States District Court
+    for the Southern District of Florida, Miami Division. We deny
+    all claims and intend to vigorously defend our self. We may be
+    involved from time to time in a variety of other litigation
+    arising out of our business. Our insurance may not cover all
+    claims that may be asserted against us, and any claims asserted
+    against us, regardless of merit or eventual outcome, may harm
+    our reputation. Should the ultimate judgments or settlements in
+    any litigation exceed our insurance coverage, they could have a
+    material adverse effect on our financial condition and results
+    of operation for any period. In addition, we may not be able to
+    obtain appropriate types or levels of insurance in the future,
+    nor may we be able to obtain adequate replacement policies with
+    acceptable terms, if at all.
+
+External
+    Risks
+Our profitability depends significantly on economic
+    conditions in the states within which we do
+    business.
+  Our success depends on the general
+    economic conditions of the specific local markets in which we
+    operate. Local economic conditions have a significant impact on
+    the demand for our products and services, as well as the ability
+    of our customers to repay loans, on the value of the collateral
+    securing loans, and the stability of our deposit funding
+    sources. A significant decline in general local economic
+    conditions, caused by inflation, recession, unemployment,
+    changes in securities markets, changes in housing market prices,
+    or other factors could impact local economic conditions and, in
+    turn, have a material adverse effect on our financial condition
+    and results of operations.
+
+The earnings of financial services companies are
+    significantly affected by general business and economic
+    conditions.
+  Our operations and profitability
+    are impacted by general business and economic conditions in the
+    United States and abroad. These conditions include short-term
+    and long-term interest rates, inflation, money supply, political
+    issues, legislative and regulatory changes, fluctuations in both
+    debt and equity capital markets, broad trends in industry and
+    finance, and the strength of the United States economy, all of
+    which are beyond our control. A deterioration in economic
+    conditions could result in an increase in loan delinquencies and
+    nonperforming assets, decreases in loan collateral values, and a
+    decrease in demand for our products and services, among other
+    things, any of which could have a material adverse impact on our
+    financial condition and results of operations.
+
+Our earnings are significantly affected by the fiscal and
+    monetary policies of the federal government and its
+    agencies.
+  The policies of the Federal Reserve
+    impact us significantly. The Federal Reserve regulates the
+    supply of money and credit in the United States. Its policies
+    directly and indirectly influence the rate of interest earned on
+    loans and paid on borrowings and interest-bearing deposits and
+    can also affect the value of financial instruments we hold.
+    Those policies determine to a significant extent our cost of
+    funds for lending and investing. Changes in those policies are
+    beyond our control and are difficult to predict. Federal Reserve
+    policies can also affect our borrowers, potentially increasing
+    the risk that they may fail to repay their loans. For example, a
+    tightening of the money supply by the Federal Reserve could
+    reduce the demand for a borrowers products and services.
+    This could adversely affect the borrowers earnings and
+    ability to repay its loan, which could have a material adverse
+    effect on our financial condition and results of operation.
+
+We operate in a highly competitive industry and market
+    area.
+  We face substantial competition in all
+    areas of our operations from a variety of different competitors,
+    many of which are larger and may have more financial resources.
+    Such competitors primarily include national, regional, and
+    internet banks within the various markets in which we
+
+ XBRL Paragraph Pagebreak 
+ XBRL Pagebreak Begin 
+
+    21
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+
+    operate. We also face competition from many other types of
+    financial institutions, including, without limitation, savings
+    and loans, credit unions, finance companies, brokerage firms,
+    insurance companies, and other financial intermediaries. The
+    financial services industry could become even more competitive
+    as a result of legislative, regulatory, and technological
+    changes and continued consolidation. Banks, securities firms,
+    and insurance companies can merge under the umbrella of a
+    financial holding company, which can offer virtually any type of
+    financial service, including banking, securities underwriting,
+    insurance (both agency and underwriting), and merchant banking.
+    Also, technology has lowered barriers to entry and made it
+    possible for nonbanks to offer products and services
+    traditionally provided by banks, such as automatic transfer and
+    automatic payment systems. Many of our competitors have fewer
+    regulatory constraints and may have lower cost structures.
+    Additionally, due to their size, many competitors may be able to
+    achieve economies of scale and, as a result, may offer a broader
+    range of products and services as well as better pricing for
+    those products and services than we can.
+
+
+    Our ability to compete successfully depends on a number of
+    factors, including, among other things:
+
+
+    the ability to develop, maintain, and build upon long-term
+    customer relationships based on top quality service, high
+    ethical standards, and safe, sound assets;
+
+
+    the ability to expand our market position;
+
+
+    the scope, relevance, and pricing of products and services
+    offered to meet customer needs and demands;
+
+
+    the rate at which we introduce new products and services
+    relative to our competitors;
+
+
+    customer satisfaction with our level of service; and
+
+
+    industry and general economic trends.
+
+
+    Failure to perform in any of these areas could significantly
+    weaken our competitive position, which could adversely affect
+    our growth and profitability, which, in turn, could have a
+    material adverse effect on our financial condition and results
+    of operations.
+
+Consumers may decide not to use banks to complete their
+    financial transactions.
+  Technology and other
+    changes are allowing parties to complete financial transactions
+    through alternative methods that historically have involved
+    banks. For example, consumers can now maintain funds that would
+    have historically been held as bank deposits in brokerage
+    accounts, mutual funds or general-purpose reloadable prepaid
+    cards. Consumers can also complete transactions such as paying
+    bills 
+and/or
+
+    transferring funds directly without the assistance of banks. The
+    process of eliminating banks as intermediaries, known as
+    disintermediation, could result in the loss of fee
+    income, as well as the loss of customer deposits and the related
+    income generated from those deposits. The loss of these revenue
+    streams and the lower cost of deposits as a source of funds
+    could have a material adverse effect on our financial condition
+    and results of operations.
+
+Severe weather, natural disasters, acts of war or
+    terrorism, and other external events could significantly impact
+    our business.
+  Severe weather, natural
+    disasters, acts of war or terrorism, and other adverse external
+    events could have a significant impact on our ability to conduct
+    business. Such events could affect the stability of our deposit
+    base, impair the ability of borrowers to repay outstanding
+    loans, impair the value of collateral securing loans, cause
+    significant property damage, result in loss of revenue
+    
+and/or
+ cause
+    us to incur additional expenses. Although management has
+    established disaster recovery policies and procedures, the
+    occurrence of any such event could have a material adverse
+    effect on our business, which, in turn, could have a material
+    adverse effect on our financial condition and results of
+    operations.
+
+Strategic
+    Risks
+Our financial condition and results of operations could be
+    negatively affected if we fail to grow or fail to manage our
+    growth effectively.
+  Our business strategy
+    includes significant growth plans. We intend to continue
+    pursuing a profitable growth strategy. Our prospects must be
+    considered in light of the risks, expenses and difficulties
+    frequently encountered by companies in significant growth stages
+    of development. We cannot assure you that we will be able to
+    expand our market presence in our existing markets or
+    successfully enter new markets or that any such expansion will
+    not adversely affect our results of operations. Failure to
+    manage our growth effectively could have a material adverse
+    effect on our business, future prospects, financial condition or
+    results of operations and
+
+ XBRL Paragraph Pagebreak 
+ XBRL Pagebreak Begin 
+
+    22
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+
+    could adversely affect our ability to successfully implement our
+    business strategy. Also, if we grow more slowly than
+    anticipated, our operating results could be materially adversely
+    affected.
+
+
+    Our ability to grow successfully will depend on a variety of
+    factors including the continued availability of desirable
+    business opportunities, the competitive responses from other
+    financial institutions in our market areas and our ability to
+    manage our growth. While we believe we have the management
+    resources and internal systems in place to successfully manage
+    our future growth, there can be no assurance growth
+    opportunities will be available or growth will be successfully
+    managed.
+
+Acquisitions may disrupt our business and dilute
+    shareholder value.
+  We regularly evaluate
+    merger and acquisition opportunities and conduct due diligence
+    activities related to possible transactions with other financial
+    institutions and financial services companies. As a result,
+    negotiations may take place and future mergers or acquisitions
+    involving cash, debt, or equity securities may occur at any
+    time. We seek merger or acquisition partners that are culturally
+    similar, have experienced management, and possess either
+    significant market presence or have potential for improved
+    profitability through financial management, economies of scale,
+    or expanded services.
+
+
+    Acquiring other banks, businesses, or branches involves
+    potential adverse impact to our financial results and various
+    other risks commonly associated with acquisitions, including,
+    among other things:
+
+
+    difficulty in estimating the value of the target company;
+
+
+    payment of a premium over book and market values that may dilute
+    our tangible book value and earnings per share in the short and
+    long term;
+
+
+    potential exposure to unknown or contingent liabilities of the
+    target company;
+
+
+    exposure to potential asset quality issues of the target company;
+
+
+    there may be volatility in reported income as goodwill
+    impairment losses could occur irregularly and in varying amounts;
+
+
+    difficulty and expense of integrating the operations and
+    personnel of the target company;
+
+
+    inability to realize the expected revenue increases, cost
+    savings, increases in geographic or product presence,
+    
+and/or
+ other
+    projected benefits;
+
+
+    potential disruption to our business;
+
+
+    potential diversion of our managements time and attention;
+
+
+    the possible loss of key employees and customers of the target
+    company; and
+
+
+    potential changes in banking or tax laws or regulations that may
+    affect the target company.
+
+Failure to keep pace with technological change could
+    adversely affect our business.
+  The financial
+    services industry is continually undergoing rapid technological
+    change with frequent introductions of new technology-driven
+    products and services. The effective use of technology increases
+    efficiency and enables financial institutions to better serve
+    customers and to reduce costs. Our future success depends, in
+    part, upon our ability to address the needs of our customers by
+    using technology to provide products and services that will
+    satisfy customer demands, as well as to create additional
+    efficiencies in our operations. Many of our competitors have
+    substantially greater resources to invest in technological
+    improvements. We may not be able to effectively implement new
+    technology-driven products and services or be successful in
+    marketing these products and services to our customers. Failure
+    to successfully keep pace with technological change affecting
+    the financial services industry could have a material adverse
+    impact on our business and, in turn, our financial condition and
+    results of operations.
+
+New lines of business or new products and services may
+    subject us to additional risk.
+  From time to
+    time, we may implement new lines of business or offer new
+    products and services within existing lines of business. There
+    are substantial risks and uncertainties associated with these
+    efforts, particularly in instances where the markets are not
+    fully developed. In developing and marketing new lines of
+    business
+    
+and/or
+ new
+    products and services, we may invest significant time and
+    resources. Initial timetables for the introduction and
+    development of new lines of business
+    
+and/or
+ new
+    products or services may not be achieved and price and
+    profitability targets may not prove feasible. External factors,
+    such as compliance with regulations, competitive alternatives,
+    and shifting market
+
+ XBRL Paragraph Pagebreak 
+ XBRL Pagebreak Begin 
+
+    23
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+
+    preferences, may also impact the successful implementation of a
+    new line of business
+    
+and/or
+ a new
+    product or service. Furthermore, any new line of business
+    
+and/or
+ new
+    product or service could have a significant impact on the
+    effectiveness of our system of internal controls. Failure to
+    successfully manage these risks in the development and
+    implementation of new lines of business
+    
+and/or
+ new
+    products or services could have a material adverse effect on our
+    business, results of operations and financial condition.
+
+Reputation
+    Risks
+Negative publicity could damage our
+    reputation.
+  Reputation risk, or the risk to
+    our earnings and capital from negative public opinion, is
+    inherent in our business. Negative public opinion could
+    adversely affect our ability to keep and attract customers and
+    expose us to adverse legal and regulatory consequences. Negative
+    public opinion could result from our actual or alleged conduct
+    in any number of activities, including lending or foreclosure
+    practices, corporate governance, regulatory compliance, mergers
+    and acquisitions, and disclosure, sharing or inadequate
+    protection of customer information, and from actions taken by
+    government regulators and community organizations in response to
+    that conduct. Because we conduct most of our business under the
+    Associated Bank brand, negative public opinion about
+    one business could affect our other businesses.
+
+Unauthorized disclosure of sensitive or confidential
+    client or customer information, whether through a breach of our
+    computer systems or otherwise, could severely harm our
+    business.
+  As part of our business, we
+    collect, process and retain sensitive and confidential client
+    and customer information on our behalf and on behalf of other
+    third parties. Despite the security measures we have in place,
+    our facilities and systems, and those of our third party service
+    providers, may be vulnerable to security breaches, acts of
+    vandalism, computer viruses, misplaced or lost data, programming
+    
+and/or
+ human
+    errors, or other similar events. Any security breach involving
+    the misappropriation, loss or other unauthorized disclosure of
+    confidential customer information, whether by us or by our
+    vendors, could severely damage our reputation, expose us to the
+    risk of litigation and liability, disrupt our operations and
+    have a material adverse effect on our business.
+
+Ethics or conflict of interest issues could damage our
+    reputation.
+  We have established a Code of
+    Conduct and related policies and procedures to address the
+    ethical conduct of business and to avoid potential conflicts of
+    interest. Any system of controls, however well designed and
+    operated, is based, in part, on certain assumptions and can
+    provide only reasonable, not absolute, assurances that the
+    objectives of the system are met. Any failure or circumvention
+    of our related controls and procedures or failure to comply with
+    the established Code of Conduct and Related Party Transaction
+    Policies and Procedures could have a material adverse effect on
+    our reputation, business, results of operations,
+    
+and/or
+
+    financial condition.
+
+Liquidity
+    Risks
+Liquidity is essential to our
+    businesses.
+  Our liquidity could be impaired
+    by an inability to access the capital markets or unforeseen
+    outflows of cash. This situation may arise due to circumstances
+    that we may be unable to control, such as a general market
+    disruption or an operational problem that affects third parties
+    or us. Our credit ratings are important to our liquidity. A
+    reduction or an anticipated reduction in our credit ratings
+    could adversely affect our liquidity and competitive position,
+    increase our borrowing costs, limit our access to the capital
+    markets or trigger unfavorable contractual obligations.
+
+We rely on management fees and dividends from our
+    subsidiaries for most of our revenue.
+  We are
+    a separate and distinct legal entity from our banking and other
+    subsidiaries. A substantial portion of our revenue comes from
+    management fees and dividends from our subsidiaries. These
+    dividends are the principal source of funds to pay dividends on
+    our common and preferred stock, and to pay interest and
+    principal on our debt. Various federal
+    
+and/or
+ state
+    laws and regulations limit the amount of management fees and
+    dividends that our national bank subsidiary and certain nonbank
+    subsidiaries may pay to us. Also, our right to participate in a
+    distribution of assets upon a subsidiarys liquidation or
+    reorganization is subject to the prior claims of the
+    subsidiarys creditors. In the event our national bank
+    subsidiary is unable to pay management fees and dividends to us,
+    we may not be able to service debt, pay obligations, or pay
+    dividends on our common and preferred stock. The inability to
+    receive management fees and dividends from our national bank
+    subsidiary could have a material adverse effect on our business,
+    financial condition, and results of operations.
+
+ XBRL Pagebreak Begin 
+
+    24
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+Interest
+    Rate Risks
+We are subject to interest rate
+    risk.
+  Our earnings and cash flows are largely
+    dependent upon our net interest income. Interest rates are
+    highly sensitive to many factors that are beyond our control,
+    including general economic conditions and policies of various
+    governmental and regulatory agencies and, in particular, the
+    Federal Reserve. Changes in monetary policy, including changes
+    in interest rates, could influence not only the interest we
+    receive on loans and investments and the amount of interest we
+    pay on deposits and borrowings, but such changes could also
+    affect (i) our ability to originate loans and obtain
+    deposits; (ii) the fair value of our financial assets and
+    liabilities; and (iii) the average duration of our
+    mortgage-backed securities portfolio and other interest-earning
+    assets. If the interest rates paid on deposits and other
+    borrowings increase at a faster rate than the interest rates
+    received on loans and other investments, our net interest
+    income, and therefore earnings, could be adversely affected.
+    Earnings could also be adversely affected if the interest rates
+    received on loans and other investments fall more quickly than
+    the interest rates paid on deposits and other borrowings.
+
+
+    Although management believes it has implemented effective asset
+    and liability management strategies, including the limited use
+    of derivatives as hedging instruments, to reduce the potential
+    effects of changes in interest rates on our results of
+    operations, any substantial, unexpected, prolonged change in
+    market interest rates could have a material adverse effect on
+    our financial condition and results of operations. Also, our
+    interest rate risk modeling techniques and assumptions likely
+    may not fully predict or capture the impact of actual interest
+    rate changes on our balance sheet.
+
+The impact of interest rates on our mortgage banking
+    business can have a significant impact on
+    revenues.
+  Changes in interest rates can
+    impact our mortgage related revenues. A decline in mortgage
+    rates generally increases the demand for mortgage loans as
+    borrowers refinance, but also generally leads to accelerated
+    payoffs. Conversely, in a constant or increasing rate
+    environment, we would expect fewer loans to be refinanced and a
+    decline in payoffs. Although we use models to assess the impact
+    of interest rates on mortgage related revenues, the estimates of
+    revenues produced by these models are dependent on estimates and
+    assumptions of future loan demand, prepayment speeds and other
+    factors which may differ from actual subsequent experience.
+
+Changes in interest rates could also reduce the value of
+    our mortgage servicing rights and
+    earnings.
+  We have a portfolio of mortgage
+    servicing rights. A mortgage servicing right (MSR)
+    is the right to service a mortgage loan (i.e, collect principal,
+    interest, escrow amounts, etc.) for a fee. We acquire MSRs when
+    we originate mortgage loans and keep the servicing rights after
+    we sell or securitize the loans or when we purchase the
+    servicing rights to mortgage loans originated by other lenders.
+    We carry MSRs at the lower of amortized cost or estimated fair
+    value. Fair value is the present value of estimated future net
+    servicing income, calculated based on a number of variables,
+    including assumptions about the likelihood of prepayment by
+    borrowers.
+
+
+    Changes in interest rates can affect prepayment assumptions and,
+    thus, fair value. When interest rates fall, borrowers are more
+    likely to prepay their mortgage loans by refinancing them at a
+    lower rate. As the likelihood of prepayment increases, the fair
+    value of our MSRs can decrease. Each quarter we evaluate our
+    MSRs for impairment based on the difference between carrying
+    amount and fair value at quarter end. If temporary impairment
+    exists, we establish a valuation allowance through a charge to
+    earnings for the amount the carrying amount exceeds fair value.
+    We also evaluate our MSRs for
+    
+other-than-temporary
+
+    impairment. If we determine that
+    
+other-than-temporary
+
+    impairment exists, we will recognize a direct write-down of the
+    carrying value of the MSRs.
+
+Risks
+    Related to an Investment in Our Common Stock
+Our stock price can be volatile.
+  Stock
+    price volatility may make it more difficult for you to sell your
+    common stock when you want and at prices you find attractive.
+    Our stock price can fluctuate widely in response to a variety of
+    factors including, among other things:
+
+
+    actual or anticipated variations in quarterly results of
+    operations or financial condition;
+
+
+    recommendations by securities analysts;
+
+
+    operating results and stock price performance of other companies
+    that investors deem comparable to us;
+
+
+    news reports relating to trends, concerns, and other issues in
+    the financial services industry;
+
+ XBRL Pagebreak Begin 
+
+    25
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+
+    perceptions in the marketplace regarding us
+    
+and/or
+ our
+    competitors;
+
+
+    new technology used or services offered by competitors;
+
+
+    significant acquisitions or business combinations, strategic
+    partnerships, joint ventures, or capital commitments by or
+    involving us or our competitors;
+
+
+    failure to integrate acquisitions or realize anticipated
+    benefits from acquisitions;
+
+
+    changes in government regulations; and
+
+
+    geopolitical conditions such as acts or threats of terrorism or
+    military conflicts.
+
+
+    General market fluctuations, industry factors, and general
+    economic and political conditions and events, such as economic
+    slowdowns or recessions, interest rate changes, or credit loss
+    trends, could also cause our stock price to decrease regardless
+    of our operating results.
+
+There may be future sales or other dilution of our equity,
+    which may adversely affect the market price of our common
+    stock.
+  We are not restricted from issuing
+    additional common stock, including securities that are
+    convertible into or exchangeable for, or that represent the
+    right to receive, common stock. The issuance of additional
+    shares of common stock or the issuance of convertible securities
+    would dilute the ownership interest of our existing common
+    shareholders. The market price of our common stock could decline
+    as a result of an equity offering, as well as other sales of a
+    large block of shares of our common stock or similar securities
+    in the market after an equity offering, or the perception that
+    such sales could occur.
+
+
+    We are highly regulated, and our regulators could require us to
+    raise additional common equity in the future. Both we and our
+    regulators perform a variety of analyses of our assets,
+    including the preparation of stress case scenarios, and as a
+    result of those assessments we could determine, or our
+    regulators could require us, to raise additional capital.
+
+
+    In addition, the exercise of the warrant issued to the UST under
+    TARP would dilute the ownership interest of our existing
+    shareholders. See also Liquidity in Part II,
+    Item , Managements Discussion and Analysis of
+    Financial Condition and Results of Operations, and
+    Note 9, Stockholders Equity, of the notes
+    to consolidated financial statements in Part II,
+    Item 8, Financial Statements and Supplementary
+    Data, for additional information on the common stock
+    warrants issued to the UST.
+
+We may eliminate dividends on our common
+    stock.
+  Although we have historically paid a
+    quarterly cash dividend to the holders of our common stock,
+    holders of our common stock are not entitled to receive
+    dividends. Downturns in the domestic and global economies could
+    cause our board of directors to consider, among other things,
+    the elimination of dividends paid on our common stock. This
+    could adversely affect the market price of our common stock.
+    Because of our agreements with the UST as part of the CPP under
+    the TARP, prior to November 21, 2011, or the date on which
+    the USTs senior preferred stock investment has been fully
+    redeemed or transferred, if earlier, we may not pay quarterly
+    dividends on our common stock greater than $0.32 per share
+    without the USTs consent. In addition, we may not pay
+    dividends on our common stock unless all accrued and unpaid
+    dividends for all past dividend periods are fully paid on our
+    outstanding preferred stock issued to the UST. Furthermore, as a
+    bank holding company, our ability to pay dividends is subject to
+    the guidelines of the Federal Reserve regarding capital adequacy
+    and dividends, and we are required to consult with the Federal
+    Reserve before declaring or paying any dividends. Dividends also
+    may be limited as a result of safety and soundness
+    considerations.
+
+Our agreements with the UST under the CPP impose
+    restrictions and obligations on us that limit our ability to
+    increase dividends, repurchase our common stock or preferred
+    stock and access the equity capital
+    market.
+  In November 2008, we issued preferred
+    stock and a warrant to purchase our common stock to the UST
+    under TARP. Prior to November 21, 2011, unless we have
+    redeemed all of the preferred stock or the UST has transferred
+    all of the preferred stock to a third party, the consent of the
+    UST will be required for us to, among other things, pay a
+    quarterly common stock dividend greater than $0.32 per share or
+    repurchase our common stock or other preferred stock (with
+    certain exceptions, including the repurchase of our common stock
+    to offset share dilution from equity-based employee compensation
+    awards). We have also granted registration rights and offering
+    facilitation rights to the UST
+
+ XBRL Paragraph Pagebreak 
+ XBRL Pagebreak Begin 
+
+    26
+
+ END PAGE WIDTH 
+ PAGEBREAK 
+Table of Contents
+ BEGIN PAGE WIDTH 
+ XBRL Pagebreak End 
+
+    pursuant to which we have agreed to
+    
+lock-up
+
+    periods in connection with an offering by the UST of our
+    securities during which we would be unable to issue equity
+    securities.
+
+The common stock is equity and is subordinate to our
+    existing and future indebtedness and preferred stock and
+    effectively subordinated to all the indebtedness and other
+    non-common equity claims against our subsidiaries.
+    
+Shares of the common stock are equity interests in us
+    and do not constitute indebtedness. As such, shares of the
+    common stock will rank junior to all of our indebtedness and to
+    other non-equity claims against us and our assets available to
+    satisfy claims against us, including our liquidation.
+    Additionally, holders of our common stock are subject to the
+    prior dividend and liquidation rights of holders of our
+    outstanding preferred stock issued to the UST under TARP. Our
+    board of directors is authorized to issue additional classes or
+    series of preferred stock without any action on the part of the
+    holders of our common stock, and we are permitted to incur
+    additional debt. Upon liquidation, lenders and holders of our
+    debt securities and preferred stock would receive distributions
+    of our available assets prior to holders of our common stock.
+    Furthermore, our right to participate in a distribution of
+    assets upon any of our subsidiaries liquidation or
+    reorganization is subject to the prior claims of that
+    subsidiarys creditors, including holders of any preferred
+    stock of that subsidiary.
+
+Our articles of incorporation, as amended, amended and
+    restated bylaws, and certain banking laws may have an
+    anti-takeover effect.
+  Provisions of our
+    articles of incorporation, as amended, amended and restated
+    bylaws, and federal banking laws, including regulatory approval
+    requirements, could make it more difficult for a third party to
+    acquire us, even if doing so would be perceived to be beneficial
+    to our shareholders. The combination of these provisions may
+    prohibit a non-negotiated merger or other business combination,
+    which, in turn, could adversely affect the market price of our
+    common stock.
+
+An investment in our common stock is not an insured
+    deposit.
+  Our common stock is not a bank
+    deposit and, therefore, is not insured against loss by the FDIC,
+    any other deposit insurance fund, or by any other public or
+    private entity. An investment in our common stock is inherently
+    risky for the reasons described in this Risk Factors
+    section and elsewhere in this report and is subject to the same
+    market forces that affect the price of common stock in any
+    company. As a result, if you acquire our common stock, you may
+    lose some or all of your investment.
+
+An entity holding as little as a 5% interest in our
+    outstanding common stock could, under certain circumstances, be
+    subject to regulation as a bank holding
+    company.
+  An entity (including a
+    group composed of natural persons) owning or
+    controlling with the power to vote 25% or more of our
+    outstanding common stock, or 5% or more if such holder otherwise
+    exercises a controlling influence over us, may be
+    subject to regulation as a bank holding company in
+    accordance with the BHC Act. In addition, (1) any bank
+    holding company or foreign bank with a U.S. presence may be
+    required to obtain the approval of the Federal Reserve under the
+    BHC Act to acquire or retain 5% or more of our outstanding
+    common stock, and (2) any person not otherwise defined as a
+    company by the BHC Act and its implementing regulations may be
+    required to obtain the approval of the Federal Reserve under the
+    Change in Bank Control Act to acquire or retain 10% or more of
+    our outstanding common stock. Becoming a bank holding company
+    imposes certain statutory and regulatory restrictions and
+    obligations, such as providing managerial and financial strength
+    for its bank subsidiaries. Regulation as a bank holding company
+    could require the holder to divest all or a portion of the
+    holders investment in our common stock or such nonbanking
+    investments that may be deemed impermissible or incompatible
+    with bank holding company status, such as a material investment
+    in a company unrelated to banking.
+
+ITEM 1B.  
+UNRESOLVED
+    STAFF COMMENTS
+
+    None.
+

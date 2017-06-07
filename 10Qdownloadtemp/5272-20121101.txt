@@ -1,0 +1,77 @@
+ITEM 1A.
+ / RISK FACTORS  
+ INSERTING DOTTED RULE 
+In addition to the other information set forth in this Quarterly Report on Form 10-Q, you should carefully consider the factors discussed in
+Part II, Item 1A. Risk Factors of AIG's Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2012 and in Part I, Item 1A. Risk
+Factors and discussed throughout Part II Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in AIG's Annual Report on
+Form 10-K for the year ended December 31, 2011, as amended by Amendment No. 1 and Amendment No. 2 on Form 10-K/A filed on February 27,
+2012 and March 30, 2012, respectively, and throughout Exhibit 99.2, Management's Discussion and Analysis of Financial Condition and Results of Operations of AIG's Current Report on
+Form 8-K filed on May 4, 2012 (collectively, the 2011 Annual Report). 
+ COMMAND=ADD_TXTHEX,"PMS900" 
+REGULATION
+
+ INSERTING DOTTED RULE 
+Our status as a savings and loan holding company and the enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act will
+subject us to substantial additional federal regulation, either or both of which may materially and adversely affect our businesses, results of operations, cash flows, financial condition and credit
+ratings.
+ On July 21, 2010, the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank), which effects comprehensive changes to the
+regulation of financial services in the United States, was signed into law. Dodd-Frank directs existing and newly-created government agencies and bodies to promulgate regulations
+implementing the law, an ongoing process anticipated to continue over the next few years. We cannot predict with certainty the requirements of the regulations ultimately adopted or how or whether
+Dodd-Frank and such regulations will affect our businesses, results of operations, cash flows or financial condition, require us to raise additional capital or result in a downgrade of our
+credit ratings. 
+As
+a result of the completion of the September 14, 2012 registered public offering of AIG Common Stock, the Department of the Treasury ceased to own a majority of the outstanding shares of AIG
+Common Stock, and, consequently, AIG is regulated by the Board of Governors of the Federal Reserve System (FRB) and subject to its examination, supervision and enforcement authority and reporting
+requirements as a savings and loan holding company (SLHC). The FRB, the Office of the Comptroller of the Currency and the Federal Deposit Insurance Corporation have proposed revised minimum leverage
+and risk-based capital requirements that would apply to all bank holding companies and SLHCs, as well as to insured depository institutions, such as AIG Federal Savings Bank. As a result
+of our regulation by the FRB as an SLHC:
+We cannot predict how the FRB will exercise general supervisory authority over us. 
+The FRB, as a prudential matter, may limit our ability to pay dividends and repurchase shares of AIG Common Stock. 
+In
+addition, under Dodd-Frank we may separately become subject to the examination, enforcement and supervisory authority of the FRB as a nonbank systemically important financial
+institution (SIFI). In October 2012, AIG received a notice that it is under consideration by the Financial Stability Oversight Council (Council) for a proposed determination that it is a SIFI. The
+notice stated that AIG will be reviewed in Stage 3 of the SIFI determination process described in the Council's interpretive guidance for nonbank financial company determinations. If we are
+designated as a SIFI:
+We would become subject to stress tests to determine whether, on a consolidated basis, we have the capital necessary to
+absorb losses due to adverse economic conditions. 
+185
+ ZEQ.=1,SEQ=186,EFW="2211130",CP="AMERICAN INTERNATIONAL GROUP INC",DN="1",CHK=76273,FOLIO='185',FILE='DISK127:[12ZCL4.12ZCL16904]JU16904A.;37',USER='DSCHWAR',CD='30-OCT-2012;22:22' 
+We would be subject to stricter prudential standards, including stricter requirements and limitations relating to
+risk-based capital, leverage, liquidity and credit exposure, as well as overall risk management requirements, management interlock prohibitions and a requirement to maintain a plan for
+rapid and orderly dissolution in the event of severe financial distress. 
+We would become subject to a new early remediation regime process to be administered by the FRB. 
+If
+we are designated as a SIFI and determined to be a "grave threat" to U.S. financial stability:
+We would be required to maintain a debt-to-equity ratio of no more than 15:1. 
+The FRB may: 
+limit our ability to merge with, acquire, consolidate with, or become affiliated with another company; 
+restrict our ability to offer specified financial products;  
+require us to terminate specified activities;  
+impose conditions on how we conduct our activities; or  
+with approval of the Council, and a determination that the foregoing actions are inadequate to mitigate a threat to U.S.
+financial stability, require us to sell or otherwise transfer assets or off-balance-sheet items to unaffiliated entities. 
+The
+regulations applicable to SIFIs and to SLHCs, when all have been adopted as final rules, may differ materially from each other. 
+See
+Management's Discussion and Analysis of Financial Condition and Results of Operations  Outlook  Regulation for further discussion of this potential
+regulation. 
+If
+we continue to control AIG Federal Savings Bank or another insured depository institution, as of July 21, 2014, we will be required to conform to the "Volcker Rule", which prohibits
+"proprietary trading" and the sponsoring or investing in "covered funds." The term "covered funds" includes hedge, private equity or similar funds and, in certain cases, issuers of asset backed
+securities if such securities have equity-like characteristics. These prohibitions could substantially impact our investment portfolios as they are currently managed. The Volcker Rule, as
+proposed, contains an exemption for proprietary trading by insurance companies for their general account, but the final breadth and scope of this exemption cannot be predicted. Even if AIG no longer
+controlled an insured depository institution, Dodd-Frank authorizes the FRB to subject SIFIs to additional capital and quantitative limitations if they engage in activities prohibited by
+the Volcker Rule. 
+In
+addition, Dodd-Frank establishes a new framework for regulation of over the counter (OTC) derivatives under which we may have to collateralize previously uncollateralized swaps. These
+additional obligations to post collateral or the costs of assignment, termination or obtaining alternative credit could have a material adverse effect on us. This new framework may also increase the
+cost of conducting a hedging program or have other effects materially adverse to us. 
+We
+cannot predict the requirements of the regulations ultimately adopted, the level and magnitude of supervision we may become subject to, or how Dodd-Frank and such regulations will
+affect the financial markets generally or our businesses, results of operations, cash flows or financial condition. It is possible that the regulations adopted under Dodd-Frank and our
+regulation by the FRB as an SLHC could significantly alter our business practices, require us to raise additional capital, impose burdensome and costly requirements and add additional costs. Some of
+the regulations may also affect the perceptions of regulators, rating agencies, customers, counterparties, creditors or investors about our financial strength and could potentially affect our
+financing costs or result in a ratings downgrade. 
+186
+ ZEQ.=2,SEQ=187,EFW="2211130",CP="AMERICAN INTERNATIONAL GROUP INC",DN="1",CHK=642505,FOLIO='186',FILE='DISK127:[12ZCL4.12ZCL16904]JU16904A.;37',USER='DSCHWAR',CD='30-OCT-2012;22:22' 
+ COMMAND=ADD_TXTHEX,"PMS910" 

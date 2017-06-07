@@ -1,0 +1,32 @@
+Item 1A.   
+Risk Factors
+    In addition to the other information set forth in this Quarterly Report on Form 10-Q, you should
+carefully consider the factors discussed in Part I, Item 1A. Risk Factors and discussed throughout Part II Item 7. Management's Discussion and Analysis of Financial
+Condition and Results of Operations in AIG's Annual Report on Form 10-K for the year ended December 31, 2011, as amended by Amendment No. 1 and Amendment No. 2
+on Form 10-K/A filed on February 27, 2012 and March 30, 2012, respectively, and throughout Exhibit 99.2, Management's Discussion and Analysis of Financial
+Condition and Results of Operations of AIG's Current Report on Form 8-K filed on May 4, 2012 (collectively, the 2011 Annual Report). 
+    The
+following risk factor, originally included in the 2011 Annual Report, has been updated to read as follows: 
+If we are unable to maintain the availability of our electronic data systems and safeguard the security of our data, our ability to conduct business may be
+compromised, which could adversely affect our consolidated financial condition or results of operations.
+ We use computer systems to store, retrieve, evaluate and utilize
+customer, employee, and company data and information. Some of these systems in turn, rely upon third-party systems. Our business is highly dependent on our ability to access these systems to perform
+necessary business functions, including providing insurance quotes, processing premium payments, making changes to existing policies, filing and paying claims, administering variable annuity products
+and mutual funds, providing customer support and managing our investment portfolios. Systems failures or outages could compromise our ability to perform these functions in a timely manner, which could
+harm our ability to conduct business and hurt our relationships with our business partners and customers. In the event of a natural disaster, a computer virus, a terrorist attack or other disruption
+inside or outside the U.S., our systems may be inaccessible to our employees, customers or business partners for an extended period of time, and our employees may be unable to perform their duties for
+an extended period of time if our data or systems are disabled or destroyed. Our systems could also be subject to unauthorized access, such as physical or electronic break-ins or
+unauthorized tampering. Like other global companies, we have, from time to time, experienced threats to our data and systems, including malware and computer virus attacks, unauthorized access, systems
+failures and disruptions. AIG maintains cyber risk insurance, but this insurance may not cover all costs associated with the consequences of personal, confidential or proprietary information being
+compromised. In some cases, such unauthorized access may not be immediately detected. This may impede or interrupt our business operations and could adversely affect our consolidated financial
+condition or results of operations. 
+    In
+addition, we routinely transmit, receive and store personal, confidential and proprietary information by email and other electronic means. Although we attempt to keep such information
+confidential, we may be unable to do so in all events, especially with clients, vendors, service providers, counterparties and other third parties who may not have or use appropriate controls to
+protect confidential information. Furthermore, certain of our businesses are subject to compliance with laws and regulations enacted by U.S. federal and state governments, the European Union or other
+jurisdictions or enacted by various regulatory organizations or exchanges relating to the privacy and security of the information of clients, employees or others. The compromise of personal,
+confidential or proprietary information could result in remediation costs, legal liability, regulatory action and reputational harm. 
+AIG 2012 Form 10-Q            185
+ ZEQ.=1,SEQ=185,EFW="2210431",CP="AMERICAN INTERNATIONAL GROUP INC",DN="1",CHK=10962,FOLIO='185',FILE='DISK116:[12ZBQ1.12ZBQ71001]GA71001A.;15',USER='VRIVERA',CD=';2-AUG-2012;05:44' 
+Table of Contents
+American International Group, Inc.
