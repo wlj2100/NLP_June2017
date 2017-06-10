@@ -45,18 +45,18 @@ def countSpecial(text):
     wordList3 = ['update', 'updates', 'updating', 'updated']
     for word in text.split():
         word = word.lower()
-        if len([s for s in wordList1 if word in s]) > 0:
+        if len([word for s in wordList1 if s in word]) > 0:
             specialDict['supplement'] += 1
-        elif len([s for s in wordList2 if word in s]) > 0:
+        elif len([word for s in wordList2 if s in word]) > 0:
             specialDict['annual'] += 1
-        elif len([s for s in wordList3 if word in s]) > 0:
+        elif len([word for s in wordList3 if s in word]) > 0:
             specialDict['update'] += 1
     return specialDict
     # return json.dumps(specialDict)
 
-def writeCSV(*lsts):
-    df = pd.Da
-    pass
+def clean(riskFactorString):
+   riskFactorString = riskFactorString.replace('Item 1B', ' ').replace ('font',' ').replace ('Staff Comments',' ').replace ('Item 1A',' ').replace ('Table of Contents', ' ').replace('Unresolved Staff Comments', ' ').replace ('Pagebreak', ' ').replace ('END LOGICAL PAGE', ' ').replace('BEGIN LOGICAL PAGE', ' ').replace('also', ' ').replace('will', ' ').replace('may', ' ').replace('FOLIO', ' ').replace('SEQ', ' ').replace('Not Applicable', ' ').strip()
+   return riskFactorString
 
 if __name__ == '__main__':
     dirPath = './10Qdownloadtemp/'
@@ -66,7 +66,7 @@ if __name__ == '__main__':
     sizes = [getSize(dirPath + f) for f in filenames]
 
     # get content of each file
-    texts = [open(dirPath + f, 'r').read() for f in filenames]
+    texts = [clean(open(dirPath + f, 'r').read()) for f in filenames]
     wordCounts = []
     complexities = []
     lexDiversities = []
@@ -90,17 +90,19 @@ if __name__ == '__main__':
         # requirement 8
         if wordCounts[-1] > 3 and wordCounts[-1] < 150:
             req8.append(text.split()[:30])
+            # if any("Not" in s for s in req8[-1]):
+            #     print text
         else:
             req8.append([])
-    print len(filenames)
-    print len(wordCounts)
-    print len(sizes)
-    print len(complexities)
-    print len(lexDiversities)
-    print len(uniques)
-    print len(readabilities)
-    print len(specialCount)
-    print len(req8)
+    # print len(filenames)
+    # print len(wordCounts)
+    # print len(sizes)
+    # print len(complexities)
+    # print len(lexDiversities)
+    # print len(uniques)
+    # print len(readabilities)
+    # print len(specialCount)
+    # print len(req8)
     df = pd.DataFrame(np.array([filenames, wordCounts, sizes, complexities, lexDiversities, uniques, readabilities, specialCount, req8]).T, columns=['filenames', 'wordCounts', 'sizes', 'complexities', 'lexDiversities', 'uniques', 'readabilities', 'specialCount', 'req8'])
 
     df.to_csv('output.csv', index=False)
